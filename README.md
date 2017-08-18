@@ -1,3 +1,3 @@
 "# gittest" 
 
-version 0
+version 2
